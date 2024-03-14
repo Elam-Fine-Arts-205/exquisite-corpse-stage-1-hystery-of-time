@@ -33,7 +33,7 @@ Reimagine something from a Stage 4 sketch as a living entity or an environment.
 - Github account: https://github.com/Elam-Fine-Arts-205
 - Published webpage for stage 1: https://elam-fine-arts-205.github.io/exquisite-corpse-stage-1-hystery-of-time/
 
-*... comments to be added here*
+*This sketch explores subjective representations of time. The standardised, ordered digits of the 24-hour clock are set against the seemingly 'disorded', fragmented, and uncertain duration of a compulsive act of yawning. Pseudorandom numbers are deployed to produce unpredictable intervals between three stages of a yawn - an act that is repeated incessantly, suggesting the presence of a symptom. The images are taken from the Iconographie photographique de la Salpêtrière, a text which demonstrated the role of photography (a fundamentally time-based medium) in the conceptualisation of hysteria. The staged images of psychical symptoms in the Salpêtrière hospital would inspire Sigmund Freud's theory of hysteria, in which the repetition of symptoms (such as the bodily convulsions characteristic of hysteria) was linked to the 'atemporality' of the unconscious.*
 
 ### 🟨 Stage 2
 - Name/Alias:
