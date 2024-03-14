@@ -1,4 +1,4 @@
-// Time & Hystery of Time
+// Hystery of Time
 // Exquiste Corpse --- Stage One
 // FA205: Creative Computing
 // Semester One 2024
@@ -69,7 +69,7 @@ function draw() {
 
   // draw an image if the time elapsed since the start of the sketch is greater than the interval period
   // this conditional is needed to make sure there is an image in the currentImage varibale when the sketch starts
-  if(millis() > interval){
+  if(millis() > interval * 2){
     image(currentImage, width/2, height/2); // draw currentImage to the screen
   }
 }
