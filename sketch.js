@@ -23,8 +23,8 @@ function setup() {
   imageMode(CENTER); // use the centre image mode for this sketch
   textAlign(CENTER); // x coordinates for text will be interpreted as the centre of the text
   interval = random(0, 500); // set an initial random interval time between 0 and 500 milliseconds
-  hysteria = setInterval(triptych, interval); // start setInterval using interval variable and calling triptych function
   currentImage = imgH1; // set currentImage to the first image in the series of 3
+  hysteria = setInterval(triptych, interval); // start setInterval using interval variable and calling triptych function
 }
 
 function windowResized(){
