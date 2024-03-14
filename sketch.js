@@ -2,7 +2,6 @@
 // Exquiste Corpse --- Stage One
 // FA205: Creative Computing
 // Semester One 2024
-// Elam School of Fine Arts
 
 let imgH1, imgH2, imgH3; // variables for the images
 let interval; // variable to store random intervals for 'hysterical time'
@@ -25,6 +24,7 @@ function setup() {
   textAlign(CENTER); // x coordinates for text will be interpreted as the centre of the text
   interval = random(0, 500); // set an initial random interval time between 0 and 500 milliseconds
   hysteria = setInterval(triptych, interval); // start setInterval using interval variable and calling triptych function
+  currentImage = imgH1; // set currentImage to the first image in the series of 3
 }
 
 function windowResized(){
@@ -66,10 +66,5 @@ function draw() {
   text('Time', width/2, height/2 - 349);
   text(currentTime, width/2, height/2 - 329);
   text('Hystery of Time', width/2, height/2 - 259);
-
-  // draw an image if the time elapsed since the start of the sketch is greater than the interval period
-  // this conditional is needed to make sure there is an image in the currentImage varibale when the sketch starts
-  if(millis() > 1000){
-    image(currentImage, width/2, height/2); // draw currentImage to the screen
-  }
+  image(currentImage, width/2, height/2); // draw currentImage to the screen
 }
