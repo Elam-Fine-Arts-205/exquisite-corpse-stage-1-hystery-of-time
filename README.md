@@ -29,9 +29,9 @@ Reimagine something from a Stage 4 sketch as a living entity or an environment.
 ## Comments for each stage
 
 ### 🟥 Stage 1
-- Name/Alias:
-- Github account:
-- Published webpage for stage 1:
+- Name/Alias: Leo
+- Github account: https://github.com/Elam-Fine-Arts-205
+- Published webpage for stage 1: https://elam-fine-arts-205.github.io/exquisite-corpse-stage-1-hystery-of-time/
 
 *... comments to be added here*
 
